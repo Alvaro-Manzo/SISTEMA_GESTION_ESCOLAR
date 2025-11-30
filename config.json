@@ -1,0 +1,47 @@
+{
+  "sistema": {
+    "nombre": "Sistema de Calificaciones Académico",
+    "version": "2.0 Pro",
+    "autor": "Sistema Educativo"
+  },
+  "seguridad": {
+    "admin_password": "admin123",
+    "max_intentos_login": 3,
+    "timeout_sesion": 300,
+    "hash_password": false
+  },
+  "archivos": {
+    "excel_principal": "grupo001.xlsx",
+    "directorio_backups": "backups",
+    "directorio_logs": "logs",
+    "directorio_reportes": "reportes"
+  },
+  "calificaciones": {
+    "minima_aprobatoria": 6.0,
+    "maxima": 10.0,
+    "minima": 0.0,
+    "decimales": 2
+  },
+  "interfaz": {
+    "usar_colores": true,
+    "animaciones": true,
+    "limpiar_pantalla": true,
+    "tiempo_espera": 1
+  },
+  "backups": {
+    "automaticos": true,
+    "max_backups": 10,
+    "formato_nombre": "backup_%Y%m%d_%H%M%S.xlsx"
+  },
+  "logs": {
+    "activar": true,
+    "nivel": "INFO",
+    "formato": "[%(asctime)s] %(levelname)s: %(message)s",
+    "max_size_mb": 10
+  },
+  "reportes": {
+    "formato_fecha": "%d/%m/%Y %H:%M:%S",
+    "incluir_graficos": true,
+    "exportar_csv": true
+  }
+}

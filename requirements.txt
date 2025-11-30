@@ -1,0 +1,10 @@
+# Requerimientos del Sistema de Calificaciones PRO 2.0
+
+# Librería principal para manipulación de archivos Excel
+openpyxl>=3.1.0
+
+# Librería para colores en terminal (opcional pero recomendado)
+colorama>=0.4.6
+
+# Utilidades adicionales
+pathlib>=1.0.1

@@ -1,0 +1,42 @@
+======================================================================
+  CREDENCIALES DE ACCESO - SISTEMA DE CALIFICACIONES
+======================================================================
+
+⚠️  CONFIDENCIAL - Distribuir a cada estudiante SOLO su número de cuenta
+
+----------------------------------------------------------------------
+NOMBRE DEL ESTUDIANTE               NÚMERO DE CUENTA    
+----------------------------------------------------------------------
+JUAN PEREZ                          324056192           
+PEDRO MARTINEZ                      324077528           
+FEDERICO JUAREZ                     324038948           
+ADRIANA NUÑEZ                       324018842           
+IVAN JIMENEZ                        324060698           
+SARA QUETZAL                        324055933           
+ALVARO MANZO                        324066416           
+ALEJANDRO TORRES                    324075371           
+CAMILA HERNÁNDEZ                    324044933           
+LUIS MARTÍNEZ                       324046012           
+DANIELA LÓPEZ                       324064616           
+RICARDO RAMÍREZ                     324039153           
+LAURA MENDOZA                       324055884           
+JAVIER SALAZAR                      324094204           
+ANA VILLALOBOS                      324033049           
+MARCOS CASTILLO                     324084748           
+FERNANDA DUARTE                     324024032           
+DIEGO PAREDES                       324058452           
+GABRIELA RÍOS                       324094135           
+SAMUEL CABRERA                      324038535           
+BEATRIZ NAVARRO                     324046368           
+TOMÁS AGUIRRE                       324061250           
+ELENA VÁZQUEZ                       324031270           
+CARLOS CORDERO                      324094802           
+KAREN ESTRADA                       324096461           
+FERNANDO PALMA                      324080235           
+ISABEL QUINTERO                     324096820           
+----------------------------------------------------------------------
+
+Total de estudiantes: 27
+
+⚠️  IMPORTANTE: Cada estudiante debe conocer SOLO su propio número de cuenta
+para garantizar la privacidad de las calificaciones.
